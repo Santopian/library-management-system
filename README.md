@@ -130,7 +130,3 @@ Notes:
 
 - The Admin menu option **“Add Movie”** is present but not implemented in `project.cpp`.
 - Catalog persistence is done in `project.cpp` for books/movies; only users are handled by `FileManager`.
-
-## License
-
-Add a license if you plan to distribute this project publicly.
